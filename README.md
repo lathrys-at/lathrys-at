@@ -1,4 +1,7 @@
-## Hi there 👋
+hi there, i'm ren
+
+- i like building systems
+- 🦋 [@lathrys.at](https://bsky.app/profile/lathrys.at)
 
 <!--
 **lathrys-at/lathrys-at** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
